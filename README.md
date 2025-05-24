@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/loodyy/problem-solving-leetcode/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/loodyy/problem-solving-leetcode/tree/master/3194-find-words-containing-character) |
+## String
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/loodyy/problem-solving-leetcode/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->

@@ -10,9 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/loodyy/problem-solving-leetcode/tree/master/0001-two-sum) |
 | [3194-find-words-containing-character](https://github.com/loodyy/problem-solving-leetcode/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/loodyy/problem-solving-leetcode/tree/master/3194-find-words-containing-character) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/loodyy/problem-solving-leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

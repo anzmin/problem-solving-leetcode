@@ -10,7 +10,7 @@ class Solution:
 
         curr_node = dummy_node
         while a != None or b != None:
-            s = carry
+            s = 0 + carry
 
             if a != None:
                 s += a.val
@@ -18,7 +18,7 @@ class Solution:
             if b != None:
                 s += b.val
                 b = b.next
-                
+
             if s >= 10:
                 carry = 1
                 s -= 10

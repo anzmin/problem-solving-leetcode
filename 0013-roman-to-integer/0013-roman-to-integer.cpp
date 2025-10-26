@@ -13,14 +13,17 @@ public:
             {'M', 1000}
         };
 
+        int prev = 0;
         int res = 0;
 
-        for (int i = 0; i < n; i++) {
-            if (i < n - 1 && map[s[i]] < map[s[i + 1]]) {
-                res -= map[s[i]];
+        for (int i = n; i >= 0; i--) {
+            int curr = map[s[i]];
+            if (curr >= prev) {
+                res += curr;
             } else {
-                res += map[s[i]];
+                res -= curr;
             }
+            prev = curr;
         }
         return res;
     };

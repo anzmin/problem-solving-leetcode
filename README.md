@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/loodyy/problem-solving-leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Loodyy/problem-solving-leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Loodyy/problem-solving-leetcode/tree/master/0027-remove-element) |
 | [3194-find-words-containing-character](https://github.com/loodyy/problem-solving-leetcode/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Loodyy/problem-solving-leetcode/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Loodyy/problem-solving-leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->

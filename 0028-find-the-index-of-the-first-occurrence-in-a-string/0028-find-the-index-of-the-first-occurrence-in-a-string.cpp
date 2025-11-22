@@ -43,13 +43,11 @@ private:
                 len++;
                 lps[i] = len;
                 i++;
+            } else if (len != 0) {
+                len = lps[len - 1];
             } else {
-                if (len != 0) {
-                    len = lps[len - 1];
-                } else {
-                    lps[i] = 0;
-                    i++;
-                }
+                lps[i] = 0;
+                i++;
             }
         }
         

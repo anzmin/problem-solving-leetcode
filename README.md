@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/loodyy/problem-solving-leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Loodyy/problem-solving-leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Loodyy/problem-solving-leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Loodyy/problem-solving-leetcode/tree/master/0035-search-insert-position) |
 | [3194-find-words-containing-character](https://github.com/loodyy/problem-solving-leetcode/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Loodyy/problem-solving-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Loodyy/problem-solving-leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

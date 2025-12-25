@@ -9,8 +9,8 @@ public:
 
         while (i >= 0 || j >= 0 || carry) {
             int sum = carry;
-            if (i >= 0) sum += (a[i--] - '0');
-            if (j >= 0) sum += (b[j--] - '0');
+            if (i >= 0) sum += a[i--] - '0';
+            if (j >= 0) sum += b[j--] - '0';
             carry = sum / 2;
             result.push_back('0' + sum % 2);
         }
